@@ -1,0 +1,33 @@
+
+Hello
+
+++ The current program is in MATLAB syntex.
+
+++ The code was written by Udi Binshtok as part of PhD project. 
+
+++ The code was mainly used to establish the computer simulation part in the paper:
+   "Cell-cell contact area affects Notch signaling and Notch-dependent patterning"
+   By Udi Binshtok et al. 
+	from the group of David Sprinzak Lab at the
+	Department of Biochemistry and Molecular Biology, Wise Faculty of Life Science,
+	Tel Aviv University, Tel Aviv, Israel 
+
+   The differnertial equations, which the program solves, are found in this paper.
+
+++ Run the RUN script and it will initiate the program.
+
+++ Some lattices are attached in the main folder and in the folder "20 lattices".
+   All of the lattices were generated 
+   by Micha Hersch at the
+	Department of Medical Genetics, University of Lausanne, Lausanne, 
+	Switzerland Swiss Institute of Bioinformatics, Lausanne, Switzerland 
+
+
+++ See RUN, dimensionless and defaultparams (in "Nearest neighbors functions" folder) scripts 
+   for more insight about the program.
+
+++ In any question or suggestion, you are welcome to address me at my email:
+   udi.binshtok@gmail.com
+
+Enjoy,
+Udi
