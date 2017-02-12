@@ -1,0 +1,14 @@
+
+** Please find "READ ME" files - one in each folder: 
+   "Simulation code" and "Lattice generator code"
+
+** The folder "Simulation code" consist of MATLAB files 
+   that will run a simulation over the dimensionless
+   differential equations, describing Notch mediated
+   lateral inhibition that takes into account contact area.
+
+** The folder "Lattice generator code" consist of MATLAB files
+   that will generate lattice matlab file, which is nessecerry
+   for the code in "Simulation code" folder.
+   NOTE that some example lattice files are already included in
+   the "Simulation code" folder.
